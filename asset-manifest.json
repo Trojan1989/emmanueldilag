@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/emmanueldilag/static/js/main.2a066869.chunk.js",
+    "main.js.map": "/emmanueldilag/static/js/main.2a066869.chunk.js.map",
+    "runtime-main.js": "/emmanueldilag/static/js/runtime-main.64c9b4e8.js",
+    "runtime-main.js.map": "/emmanueldilag/static/js/runtime-main.64c9b4e8.js.map",
+    "static/js/2.2dad26a1.chunk.js": "/emmanueldilag/static/js/2.2dad26a1.chunk.js",
+    "static/js/2.2dad26a1.chunk.js.map": "/emmanueldilag/static/js/2.2dad26a1.chunk.js.map",
+    "index.html": "/emmanueldilag/index.html",
+    "static/js/2.2dad26a1.chunk.js.LICENSE.txt": "/emmanueldilag/static/js/2.2dad26a1.chunk.js.LICENSE.txt",
+    "static/media/Cert_1.b7b30501.PNG": "/emmanueldilag/static/media/Cert_1.b7b30501.PNG",
+    "static/media/computers.471165c3.png": "/emmanueldilag/static/media/computers.471165c3.png",
+    "static/media/me.36735ef5.png": "/emmanueldilag/static/media/me.36735ef5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64c9b4e8.js",
+    "static/js/2.2dad26a1.chunk.js",
+    "static/js/main.2a066869.chunk.js"
+  ]
+}
